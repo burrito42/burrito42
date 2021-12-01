@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @burrito42
+- 👀 what's the thing that ties it all together?
+- 🌱 I’m currently learning JuliaLang and wu-wei 無爲
+- 💞️ nerdsniped by auto diff
+- 📫 @me on a commit
